@@ -1,0 +1,8 @@
+플레이어 레벨 playerLevel
+가진 포켓몬 수 hangPokeCnt 만큼 줄별로
+tribe(String -> PokeDicNum -> int) level(int) currentHealth(int) exp(int)
+포켓몬 센터 수 pokeCenterCnt 만큼 줄별로
+tribe(String -> PokeDicNum -> int) level(int) exp(int)
+포션 종류별 개수 a b c d
+몬스터볼 종류별 개수 a b c d
+캔디수 n
