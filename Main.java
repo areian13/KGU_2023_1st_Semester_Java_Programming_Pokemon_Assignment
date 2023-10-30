@@ -573,11 +573,6 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        String a = "asdf";
-        String b = "asdf";
-        b.getBytes(0) = 'c';
-        System.out.println(a);
-        System.out.println(b);
 //        LoadFile();
 //        PlayGame();
 //        SaveFile();
