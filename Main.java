@@ -573,10 +573,10 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-//        LoadFile();
-//        PlayGame();
-//        SaveFile();
-//        FinishProgram();
+        LoadFile();
+        PlayGame();
+        SaveFile();
+        FinishProgram();
     }
 }
 
